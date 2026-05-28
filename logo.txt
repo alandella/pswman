@@ -1,0 +1,19 @@
+* * * * * * * * * * * * * * * * * * * * * * * * *
+*   ______  _____  _             ___   _   _    *
+*   | ___ \/  ___|| |   /\  /\  / _ \ | \ | |   *
+*   | |_/ /\ `--. | |  |  \/  \/ /_\ \|  \| |   *
+*   |  __/  `--. \| |/\| |\/| ||  _  || . ` |   *
+*   | |    /\__/ /\  /\  |  | || | | || |\  |   *
+*   \_|    \____/  \/  \/   |_/\_| |_/\_| \_/   *
+*                                               *
+* * * * * * * * PASSWORD  MANAGER * * * * * * * *
+*                                               *
+*  Password Manager in Python/SQLite            *
+*                                               *
+*  Version : 0.0.0                              *
+*  Author  : Andrea Giuseppe Landella           *
+*                                               *
+*  (c) 2026 Andrea Giuseppe Landella            *
+*  Released under the MIT License               *
+*                                               *
+* * * * * * * * * * * * * * * * * * * * * * * * *

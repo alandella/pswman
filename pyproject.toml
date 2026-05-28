@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pswman"
+version = "0.1.0"
+description = "A lightweight command-line password manager"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [{name = "Andrea Giuseppe Landella"}]
+dependencies = [
+    "cryptography>=38.0",
+    "pandas>=2.0",
+    "openpyxl>=3.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/alandella/pswman"
+
+[project.scripts]
+pswman = "pswman.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["pswman*"]
