@@ -1,4 +1,4 @@
-# pswman - CLI Password Manager
+# pswman - Password Manager CLT
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-informational)
