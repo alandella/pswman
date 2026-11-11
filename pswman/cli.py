@@ -39,10 +39,10 @@ class PswmanParser(argparse.ArgumentParser):
 def main() -> None:
 
     parser = PswmanParser(
-        prog="psw_manager",
+        prog="pswman",
         usage="%(prog)s [command] [options]",
         description="Simple Password Manager",
-        epilog="Use 'psw_manager [command] -h, --help' for more information on a command.",
+        epilog="Use 'pswman [command] -h, --help' for more information on a command.",
     )
 
     arg_list = [
