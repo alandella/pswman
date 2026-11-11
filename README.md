@@ -13,27 +13,7 @@ A **command-line password manager** written in Python. Credentials are stored in
 ## Logo
 
 <div align="center">
-<pre>
-* * * * * * * * * * * * * * * * * * * * * * * * *
-*   ______  _____  _             ___   _   _    *
-*   | ___ \/  ___|| |   /\  /\  / _ \ | \ | |   *
-*   | |_/ /\ `--. | |  |  \/  \/ /_\ \|  \| |   *
-*   |  __/  `--. \| |/\| |\/| ||  _  || . ` |   *
-*   | |    /\__/ /\  /\  |  | || | | || |\  |   *
-*   \_|    \____/  \/  \/   |_/\_| |_/\_| \_/   *
-*                                               *
-* * * * * * * * PASSWORD  MANAGER * * * * * * * *
-*                                               *
-*  Password Manager in Python/SQLite            *
-*                                               *
-*  Version : 0.1.0                              *
-*  Author  : Andrea Giuseppe Landella           *
-*                                               *
-*  (c) 2026 Andrea Giuseppe Landella            *
-*  Released under the MIT License               *
-*                                               *
-* * * * * * * * * * * * * * * * * * * * * * * * *
-</pre>
+<img src="./assets/logo.svg" alt="pswman logo" width="400"; padding: 24px; border-radius: 6px;">
 </div>
 
 ## How it works
