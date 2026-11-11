@@ -46,15 +46,14 @@ The encryption process is described as follows:
 
 ```mermaid
 flowchart TD
-    A([master password]) --> B[PBKDF2-HMAC-SHA256
-	600,000 iterations + salt]
-    B --> C([Fernet Key])
-    C --> D[<u>encrypted</u>
-	service, email, password
-	user_name, account_name
-	]
-    C --> E[<u>plaintext</u>
-	id, created_at]
+    A(["`master password`"]) --> B["`PBKDF2-HMAC-SHA256
+600,000 iterations + salt`"]
+    B --> C(["`Fernet Key`"])
+    C --> D["`**encrypted**
+service, email, password
+user_name, account_name`"]
+    C --> E["`**plaintext**
+id, created_at`"]
 ```
 
 > [!WARNING]
